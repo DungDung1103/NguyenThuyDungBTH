@@ -1,0 +1,23 @@
+<h2>Danh sách sinh viên</h2>
+<hr>
+<table class="table border">
+    <tr>
+        <th>
+            <label>Mã sinh viên</label>
+        </th>
+        <th>
+            <label>Tên sinh viên</label>
+        </th>
+        <th>
+            <label>Tuổi</label>
+        </th>
+    </tr>
+    @foreach (var item in ViewData["Students"] as List<Student>)
+        {
+            <tr>
+                <td>@item.StudentID</td>
+                <td>@item.StudentName</td>
+                <td>@item.StudentAge</td>
+            </tr>
+        }
+</table>

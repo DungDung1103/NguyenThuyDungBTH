@@ -11,12 +11,20 @@ public class HomeController : Controller
     public HomeController(ILogger<HomeController> logger)
     {
         _logger = logger;
+        
     }
-
     public IActionResult Index()
     {
         return View();
     }
+[HttpPost]
+    public IActionResult Index(string FullName, string Email)
+    {
+        ViewBag.name = "Hello"+ FullName + "-"+Email;
+        return View();
+    }
+    
+
 
     public IActionResult Privacy()
     {
