@@ -24,3 +24,10 @@ D:\PTPMQL\NguyenThuyDungBTH\obj\Debug\net6.0\refint\NguyenThuyDungBTH.dll
 D:\PTPMQL\NguyenThuyDungBTH\obj\Debug\net6.0\NguyenThuyDungBTH.pdb
 D:\PTPMQL\NguyenThuyDungBTH\obj\Debug\net6.0\NguyenThuyDungBTH.genruntimeconfig.cache
 D:\PTPMQL\NguyenThuyDungBTH\obj\Debug\net6.0\ref\NguyenThuyDungBTH.dll
+D:\PTPMQL\NguyenThuyDungBTH\bin\Debug\net6.0\Humanizer.dll
+D:\PTPMQL\NguyenThuyDungBTH\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\PTPMQL\NguyenThuyDungBTH\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\PTPMQL\NguyenThuyDungBTH\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\PTPMQL\NguyenThuyDungBTH\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\PTPMQL\NguyenThuyDungBTH\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\PTPMQL\NguyenThuyDungBTH\obj\Debug\net6.0\NguyenThuyDungBTH.csproj.CopyComplete
