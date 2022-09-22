@@ -8,13 +8,13 @@ public class StudentController: Controller
 {
     //các action
 
-[HttpPost]
- public IActionResult Index(Student std)
+
+ public IActionResult Index (Student std)
 {
     ViewBag.message = std.StudentID+"-"+std.StudentName+"-"+std.StudentAge   ;
     return View();
 }
-    
+  
 public IActionResult List()
 {
     
