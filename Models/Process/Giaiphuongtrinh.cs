@@ -19,15 +19,15 @@ namespace NguyenThuyDungBTH.Models.Process
             double x;
             if(heSoA==0){
                 if(heSoB==0)
-            {
-                message ="phuong trinh vo so nghiem";
+                 {
+                    message ="phuong trinh vo so nghiem";
 
-            }
-            else{
+                  }
+               else{
                  message ="phuong trinh vo nghiem";
 
-            }
-
+                }
+  
             }
             else{
                 x= -heSoB/heSoA;
@@ -36,34 +36,35 @@ namespace NguyenThuyDungBTH.Models.Process
             return message;
         }
          //Giải phương trình bậc 2
-        public string GiaiPhuongTrinhBacHai(double a, double b, double c)
+         public string GiaiPhuongTrinhBacHai(double a, double b, double c)
         {
-            string bachai = "";
-            double x1; double x2; double x;
+            string message = "";
+            double x1; double x2;
             if(a==0)
-            {
-                bachai = GiaiPhuongTrinhBacNhat(b,c);
-            }
+              {
+                message = GiaiPhuongTrinhBacNhat(b,c);
+              }
             else{
                 double delta = b*b-4*a*c;
                 if(delta <0)
-                {
-                    bachai = "Phương trình vô nghiệm";
-                }
+                  {
+                    message = "Phương trình vô nghiệm";
+                  }
                 else{
                     if(delta == 0)
                     {
-                        x= (-b)/(2*a);
-                        bachai = "Phương trình có nghiệm kép: x1 = x2= " + x ;
+                        x1= (-b)/(2*a);
+                        message = "Phương trình có nghiệm kép: x1 = x2= " + x1 ;
                     }
                     else{
                         x1 = (-b+Math.Sqrt(delta))/(2*a);
                         x2 = (-b-Math.Sqrt(delta))/(2*a);
-                        bachai = "Phương trình có 2 nghiệm: x1 = " + x1 +", x2= "+ x2;
+                       message = "Phương trình có 2 nghiệm: x1 = " + x1 +", x2= "+ x2;
                     }
                 }
             }
-            return bachai;
+            return message;
         }
     }
+   
 }
