@@ -15,6 +15,7 @@ public class HomeController : Controller
 
     public IActionResult Index()
     {
+        string str = "Brach work with database";
         return View();
     }
 
