@@ -12,42 +12,55 @@ namespace NguyenThuyDungBTH.Models.Process{
             {
                 strInput = strInput.Replace("  "," ");
             }
+            result = strInput;
             return result;
         }
 
         public string LowerToUpper(string strInput)
          {
-             string result = "";
+             string ltu= "";
              //chuyen sang in hoa
              strInput = strInput.ToUpper();
-             result = strInput;
-             return result;
+             ltu = strInput;
+             return ltu;
         }
         public string UpperToLower(string strInput)
          {
-             string result = "";
+             string utl = "";
               //chuyen sang in thuong
              strInput = strInput.ToLower();
-             result = strInput;
-             return result;
+             utl = strInput;
+             return utl;
         }
         public string CapitalizeOneFirstCharacter(string strInput)
          {
-            string result = "";
+            string onefirst = "";
              //viet hoa chu cai dau tien cua chuoi
              string firstCharacter = strInput.Substring(0,1).ToUpper();
              strInput = firstCharacter + strInput.Substring(1);
-             result = strInput;
-             return result;
+             onefirst = strInput;
+             return onefirst;
         }
          public string CapitalizeFirstCharacter(string strInput)
          {
              
              //viet hoa chu cai dau tien cua chuoi
-             string result = "";
+             string first = "";
             string[] chuoi = strInput.Split(" ");
-             result = strInput;
-             return result;
+            for(int i=0;i<chuoi.Length;i++)
+            {
+                if(chuoi[i] != "")
+                {
+                    chuoi[i] = CapitalizeOneFirstCharacter(chuoi[i]);
+                }
+            }
+            first = String.Join(" ", chuoi);
+             return first;
+            //string FirtChar = chuoi[i].Substring(0, 1);
+            //string OtherChar = chuoi[i].Substring(1);
+            // chuoi[i] = FirtChar.ToUpper() + OtherChar.ToLower();
+            // de tach ra moi mang( tach ra moi chu)
+            //capifirt += chuoi[i] + " ";
         }
         public string RemoveVietnameseAccents (string strInput)
         {

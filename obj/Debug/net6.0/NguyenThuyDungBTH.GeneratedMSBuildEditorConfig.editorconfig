@@ -8,113 +8,113 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = NguyenThuyDungBTH
 build_property.RootNamespace = NguyenThuyDungBTH
-build_property.ProjectDir = D:\PTPMQL\NguyenThuyDungBTH\
+build_property.ProjectDir = d:\PTPMQL\NguyenThuyDungBTH\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\PTPMQL\NguyenThuyDungBTH
+build_property.MSBuildProjectDirectory = d:\PTPMQL\NguyenThuyDungBTH
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/PTPMQL/NguyenThuyDungBTH/Views/Demo/Index.cshtml]
+[d:/PTPMQL/NguyenThuyDungBTH/Views/Demo/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVtb1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PTPMQL/NguyenThuyDungBTH/Views/Demo/PT2.cshtml]
+[d:/PTPMQL/NguyenThuyDungBTH/Views/Demo/PT2.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVtb1xQVDIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PTPMQL/NguyenThuyDungBTH/Views/Employee/Create.cshtml]
+[d:/PTPMQL/NguyenThuyDungBTH/Views/Employee/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PTPMQL/NguyenThuyDungBTH/Views/Employee/Index.cshtml]
+[d:/PTPMQL/NguyenThuyDungBTH/Views/Employee/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PTPMQL/NguyenThuyDungBTH/Views/Employee/List.cshtml]
+[d:/PTPMQL/NguyenThuyDungBTH/Views/Employee/List.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcTGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PTPMQL/NguyenThuyDungBTH/Views/HelloWorld/Index.cshtml]
+[d:/PTPMQL/NguyenThuyDungBTH/Views/HelloWorld/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVsbG9Xb3JsZFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PTPMQL/NguyenThuyDungBTH/Views/HelloWorld/Welcome.cshtml]
+[d:/PTPMQL/NguyenThuyDungBTH/Views/HelloWorld/Welcome.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVsbG9Xb3JsZFxXZWxjb21lLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PTPMQL/NguyenThuyDungBTH/Views/Home/Index.cshtml]
+[d:/PTPMQL/NguyenThuyDungBTH/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PTPMQL/NguyenThuyDungBTH/Views/Home/Privacy.cshtml]
+[d:/PTPMQL/NguyenThuyDungBTH/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PTPMQL/NguyenThuyDungBTH/Views/Person/Create.cshtml]
+[d:/PTPMQL/NguyenThuyDungBTH/Views/Person/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PTPMQL/NguyenThuyDungBTH/Views/Person/Index.cshtml]
+[d:/PTPMQL/NguyenThuyDungBTH/Views/Person/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PTPMQL/NguyenThuyDungBTH/Views/Person/List.cshtml]
+[d:/PTPMQL/NguyenThuyDungBTH/Views/Person/List.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uXExpc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PTPMQL/NguyenThuyDungBTH/Views/Shared/Error.cshtml]
+[d:/PTPMQL/NguyenThuyDungBTH/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PTPMQL/NguyenThuyDungBTH/Views/Shared/_ValidationScriptsPartial.cshtml]
+[d:/PTPMQL/NguyenThuyDungBTH/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PTPMQL/NguyenThuyDungBTH/Views/Stringprocess.cs/chuhoa.cshtml]
+[d:/PTPMQL/NguyenThuyDungBTH/Views/Stringprocess.cs/chuhoa.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RyaW5ncHJvY2Vzcy5jc1xjaHVob2EuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PTPMQL/NguyenThuyDungBTH/Views/Stringprocess.cs/chuthuong.cshtml]
+[d:/PTPMQL/NguyenThuyDungBTH/Views/Stringprocess.cs/chuthuong.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RyaW5ncHJvY2Vzcy5jc1xjaHV0aHVvbmcuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PTPMQL/NguyenThuyDungBTH/Views/Stringprocess.cs/Index.cshtml]
+[d:/PTPMQL/NguyenThuyDungBTH/Views/Stringprocess.cs/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RyaW5ncHJvY2Vzcy5jc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PTPMQL/NguyenThuyDungBTH/Views/Stringprocess.cs/kytudaucactu.cshtml]
+[d:/PTPMQL/NguyenThuyDungBTH/Views/Stringprocess.cs/kytudaucactu.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RyaW5ncHJvY2Vzcy5jc1xreXR1ZGF1Y2FjdHUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PTPMQL/NguyenThuyDungBTH/Views/Stringprocess.cs/kytudauchuoi.cshtml]
+[d:/PTPMQL/NguyenThuyDungBTH/Views/Stringprocess.cs/kytudauchuoi.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RyaW5ncHJvY2Vzcy5jc1xreXR1ZGF1Y2h1b2kuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PTPMQL/NguyenThuyDungBTH/Views/Stringprocess.cs/Xoadaucactu.cshtml]
+[d:/PTPMQL/NguyenThuyDungBTH/Views/Stringprocess.cs/Xoadaucactu.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RyaW5ncHJvY2Vzcy5jc1xYb2FkYXVjYWN0dS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PTPMQL/NguyenThuyDungBTH/Views/Student/Create.cshtml]
+[d:/PTPMQL/NguyenThuyDungBTH/Views/Student/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PTPMQL/NguyenThuyDungBTH/Views/Student/Index.cshtml]
+[d:/PTPMQL/NguyenThuyDungBTH/Views/Student/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PTPMQL/NguyenThuyDungBTH/Views/Student/List.cshtml]
+[d:/PTPMQL/NguyenThuyDungBTH/Views/Student/List.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxMaXN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PTPMQL/NguyenThuyDungBTH/Views/_ViewImports.cshtml]
+[d:/PTPMQL/NguyenThuyDungBTH/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PTPMQL/NguyenThuyDungBTH/Views/_ViewStart.cshtml]
+[d:/PTPMQL/NguyenThuyDungBTH/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PTPMQL/NguyenThuyDungBTH/Views/Shared/_Layout.cshtml]
+[d:/PTPMQL/NguyenThuyDungBTH/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-501vrfxi2o
